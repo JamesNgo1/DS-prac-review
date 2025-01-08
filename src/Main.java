@@ -1,8 +1,9 @@
+import DataStructures.MyArrayList;
+
 public class Main {
     public static void main(String[] args) {
 
-        System.out.println("Start of the data structures project ");
-        String user = "James Ngo";
-        System.out.println("The author is " + user);
+        MyArrayList<Integer> myarr = new MyArrayList<>();
+
     }
 }
