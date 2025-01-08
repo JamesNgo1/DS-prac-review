@@ -1,0 +1,44 @@
+ArrayList Implementation
+Objective: Implement an ArrayList from scratch. This project focuses on understanding the core operations and problem-solving techniques required to develop and manipulate dynamic arrays. By completing this project, learners will deepen their grasp of arrays, resizing mechanisms, and memory management.
+Project Description:
+The ArrayList is a resizable array-based data structure that provides dynamic sizing and an intuitive interface for storage and retrieval of elements. Unlike a standard array, an ArrayList adjusts its size automatically as elements are added or removed. In this project, learners will build their own version of an ArrayList to understand its internal workings.
+Learning Outcomes:
+Understand how dynamic arrays work.
+Learn to implement key operations such as:
+Adding elements
+Removing elements
+Retrieving elements
+Resizing the array
+Build problem-solving and debugging skills.
+Key Features to Implement:
+Core Functionalities:
+add(element): Add an element to the end of the ArrayList.
+insert(index, element): Add an element at a specific index.
+get(index): Retrieve an element at a given index.
+remove(index): Remove an element at a given index.
+size(): Get the current number of elements in the ArrayList.
+isEmpty(): Check if the ArrayList is empty.
+Advanced Functionalities:
+Automatic resizing (increase capacity when full)
+Handling edge cases like invalid indices.
+Optional: Iterators and toString method for ease of use and debugging.
+Efficiency Considerations:
+Optimize resizing to minimize performance overhead.
+Consider amortized time complexity of operations
+
+Test Cases:
+Come up with your own test cases
+Use the class and see if it works as expected
+Try to break it
+Expected Deliverables:
+Fully implemented MyArrayList class.
+Comprehensive unit tests for all methods.
+Documentation explaining each method and its purpose.
+Reflections on challenges faced and how they were resolved.
+What parts of the project did you get stuck on?
+Why were you stuck?
+What information did you need to get unblocked?
+How did you know you needed that information?
+How did you find that information?
+
+
